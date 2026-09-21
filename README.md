@@ -18,23 +18,7 @@ through an interactive Power BI dashboard.
 - Data Visualization
 
 ## Project Workflow
-Excel Dataset
-      ↓
-Data Cleaning
-      ↓
-Excel Formulas
-      ↓
-Power Query
-      ↓
-Data Transformation
-      ↓
-Data Modeling
-      ↓
-DAX Measures
-      ↓
-Power BI Dashboard
-      ↓
-HR Insights
+Excel Dataset > Data Cleaning > Excel Formulas > Power Query > Data Transformation > Data Modelling > DAX Measures > Power BI Dashboard > HR Insights
 
 # Excel Work
 Key Excel operations:
